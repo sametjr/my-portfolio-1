@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio-1/static/css/main.f8eec146.css",
-    "main.js": "/my-portfolio-1/static/js/main.88555423.js",
+    "main.js": "/my-portfolio-1/static/js/main.af8df157.js",
     "static/media/CV - SAMET ATAÇ.pdf": "/my-portfolio-1/static/media/CV - SAMET ATAÇ.898d3e1d22034ce9e96d.pdf",
     "static/media/Clone.png": "/my-portfolio-1/static/media/Clone.ad2940eb8b285e8aaf28.png",
     "static/media/Vegetables.png": "/my-portfolio-1/static/media/Vegetables.12d0aef8835fc0daeab0.png",
@@ -14,10 +14,10 @@
     "static/media/plastic-white.png": "/my-portfolio-1/static/media/plastic-white.4a66ce795631bfab84d8.png",
     "index.html": "/my-portfolio-1/index.html",
     "main.f8eec146.css.map": "/my-portfolio-1/static/css/main.f8eec146.css.map",
-    "main.88555423.js.map": "/my-portfolio-1/static/js/main.88555423.js.map"
+    "main.af8df157.js.map": "/my-portfolio-1/static/js/main.af8df157.js.map"
   },
   "entrypoints": [
     "static/css/main.f8eec146.css",
-    "static/js/main.88555423.js"
+    "static/js/main.af8df157.js"
   ]
 }
