@@ -43,7 +43,7 @@ const Technologies = () => {
 
   return (
     <div id="technologies" className="container tech_section">
-      <h2>Technologies I know</h2>
+      <h2>Technologies I use</h2>
       <div className="icons_container">
 
         {icons.map((Icon, index) => {

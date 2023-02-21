@@ -8,12 +8,10 @@ const About = () => {
       <h2>About Me</h2>
       <div className="about_inner_container">
           <p className="left-side">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-            voluptas commodi similique ipsum fugiat voluptate distinctio odio
-            exercitationem nam, sit non maxime unde suscipit eum, impedit
-            debitis velit ex veritatis adipisci. Sunt temporibus vel ut,
-            cupiditate praesentium pariatur quas debitis iure quia aliquid iste,
-            expedita rerum sequi deserunt neque totam.
+            Hello dear visitor! I am a web developer and I am passionate about developing games and web applications. I am a self-taught developer and I am always looking for new challenges. I am also a third year student at Ankara University studying computer engineering. I am also trainee at Google Game and Application Academy.
+            <br />
+            <br />
+            My main focus is to be involved in creative, innovative projects that will help me grow as a developer and as a person. I am always looking for new opportunities to learn and grow.
           </p>
         <Vertical width={1} height="200" color="white" />
       </div>
