@@ -1,0 +1,18 @@
+
+
+.intro{
+    margin-bottom: 5rem;
+}
+
+.intro > h5:first-child{
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+.header_buttons{
+    display: flex;
+    gap: 1rem;
+}
+
+
+

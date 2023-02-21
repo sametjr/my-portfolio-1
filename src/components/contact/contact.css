@@ -1,0 +1,13 @@
+.social{
+    margin-top: 4rem;
+}
+
+.social_icon{
+    font-size: 48px;
+    margin-left: 4rem;
+    cursor: pointer;
+}
+
+.contact_section{
+    padding: 10rem 0;
+}
