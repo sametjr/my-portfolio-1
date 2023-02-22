@@ -1,7 +1,6 @@
 import React from 'react'
 import './projects.css'
 import ProjectCard from './ProjectCard'
-import PlasticWhite from '../../assets/plastic-white.png'
 import RocketIcon from '../../assets/Rocket.jpg'
 import StarIcon from '../../assets/Star.png'
 import ZigZagIcon from '../../assets/Zigzag.png'
@@ -38,7 +37,7 @@ const Projects = () => {
             name: 'Vegetable Game',
             desc: 'This is a mobile game that I developed for a case study with Unity. The levels of the game can be edited from a website I created using React. If there is no internet connection, the game will load the default levels from a local JSON file.',
             github_link: 'https://github.com/sametjr/vegetable-game-v3',
-            demo_link: 'https://drive.google.com/drive/folders/1evvY8-AXX8vP6XcuT1inT-WxGX7X7_Ae'
+            demo_link: 'https://samet-jr.itch.io/vegetable-game'
         },
         {
             img: AtomIcon,

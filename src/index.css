@@ -172,6 +172,10 @@ img{
         visibility: hidden;
     }
 
+    .left-side{
+        flex-basis: 100%;
+    }
+
     .cards-container{
         width: 85%;
     }
@@ -181,6 +185,10 @@ img{
 @media screen and (max-width: 600px){
     .container{
         width: var(--container-width-ms);
+    }
+
+    #about{
+        height: 150vh;
     }
 
     .icons_container{
