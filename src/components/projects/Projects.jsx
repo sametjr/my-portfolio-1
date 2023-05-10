@@ -7,6 +7,8 @@ import ZigZagIcon from '../../assets/Zigzag.png'
 import Vegetables from '../../assets/Vegetables.png'
 import AtomIcon from '../../assets/AtomSim.png'
 import WorkWithYourPastIcon from '../../assets/Clone.png'
+import Icon2048 from '../../assets/2048.png'
+import CubeSurferIcon from '../../assets/CubeSurfer.png'
 
 const Projects = () => {
     
@@ -53,6 +55,22 @@ const Projects = () => {
             github_link: 'https://github.com/sametjr/Blender-Objects',
             demo_link: 'https://samet-jr.itch.io/work-with-your-past'
         },
+        {
+            img: Icon2048,
+            name: '2048 Game',
+            desc: 'This is a replica of the famous game "2048". I developed this game with Unity.',
+            github_link: 'https://github.com/sametjr/2048-Game',
+            demo_link: 'https://samet-jr.itch.io/2048'
+        },
+        {
+            img: CubeSurferIcon,
+            name: 'Cube Surfer Neon!',
+            desc: 'This is the stylized version of the famous game "Cube Surfer". I developed this game with Unity.',
+            github_link: 'https://github.com/sametjr/Cube-Surfer',
+            demo_link: 'https://www.youtube.com/watch?v=K59N0DUqcb4'
+        },
+
+        
     ]
   return (
     <div id='projects' className="container">
