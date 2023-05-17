@@ -61,6 +61,7 @@ const Projects = () => {
             desc: 'This is a replica of the famous game "2048". I developed this game with Unity.',
             github_link: 'https://github.com/sametjr/2048-Game',
             demo_link: 'https://samet-jr.itch.io/2048'
+            
         },
         {
             img: CubeSurferIcon,
