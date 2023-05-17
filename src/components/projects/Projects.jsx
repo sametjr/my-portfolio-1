@@ -68,6 +68,7 @@ const Projects = () => {
             desc: 'This is the stylized version of the famous game "Cube Surfer". I developed this game with Unity.',
             github_link: 'https://github.com/sametjr/Cube-Surfer',
             demo_link: 'https://www.youtube.com/watch?v=K59N0DUqcb4'
+            
         },
 
         
