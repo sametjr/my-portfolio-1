@@ -62,6 +62,7 @@ const Projects = () => {
             desc: 'This is a replica of the famous game "2048". I developed this game with Unity.',
             github_link: 'https://github.com/sametjr/2048-Game',
             demo_link: 'https://samet-jr.itch.io/2048'
+            
         },
         {
             img: CubeSurferIcon,
@@ -69,6 +70,7 @@ const Projects = () => {
             desc: 'This is the stylized version of the famous game "Cube Surfer". I developed this game with Unity.',
             github_link: 'https://github.com/sametjr/Cube-Surfer',
             demo_link: 'https://www.youtube.com/watch?v=K59N0DUqcb4'
+            
         },
         {
             img: CastleEscapeIcon,
