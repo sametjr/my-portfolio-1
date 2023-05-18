@@ -9,6 +9,7 @@ import AtomIcon from '../../assets/AtomSim.png'
 import WorkWithYourPastIcon from '../../assets/Clone.png'
 import Icon2048 from '../../assets/2048.png'
 import CubeSurferIcon from '../../assets/CubeSurfer.png'
+import CastleEscapeIcon from '../../assets/castle.png'
 
 const Projects = () => {
     
@@ -69,6 +70,13 @@ const Projects = () => {
             github_link: 'https://github.com/sametjr/Cube-Surfer',
             demo_link: 'https://www.youtube.com/watch?v=K59N0DUqcb4'
         },
+        {
+            img: CastleEscapeIcon,
+            name: 'Castle Escape',
+            desc: 'This is a game that I developed with Unity. It is a game where you have to escape from the castle. Use your sword to kill the enemies that higher level than you. Use buttons and keys to open doors. The game has 3 levels for now.',
+            github_link: 'https://github.com/sametjr/Castle-Escape',
+            demo_link: 'https://samet-jr.itch.io/castle-escape'
+        }
 
         
     ]
