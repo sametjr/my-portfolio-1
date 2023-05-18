@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/my-portfolio-1/static/css/main.ddb45c3d.css",
-    "main.js": "/my-portfolio-1/static/js/main.3bd1601d.js",
+    "main.js": "/my-portfolio-1/static/js/main.1d26312c.js",
     "static/media/2048.png": "/my-portfolio-1/static/media/2048.4adce42ce14bade7d88c.png",
     "static/media/CubeSurfer.png": "/my-portfolio-1/static/media/CubeSurfer.d7445bd3e2fd0953a962.png",
     "static/media/CV - SAMET ATAÇ.pdf": "/my-portfolio-1/static/media/CV - SAMET ATAÇ.9fb3eafe6416c8bc4912.pdf",
+    "static/media/castle.png": "/my-portfolio-1/static/media/castle.54f075a21d05b0d90fa6.png",
     "static/media/Clone.png": "/my-portfolio-1/static/media/Clone.ad2940eb8b285e8aaf28.png",
     "static/media/Vegetables.png": "/my-portfolio-1/static/media/Vegetables.12d0aef8835fc0daeab0.png",
     "static/media/Star.png": "/my-portfolio-1/static/media/Star.70c66e474da45188bc64.png",
@@ -16,10 +17,10 @@
     "static/media/plastic-white.png": "/my-portfolio-1/static/media/plastic-white.4a66ce795631bfab84d8.png",
     "index.html": "/my-portfolio-1/index.html",
     "main.ddb45c3d.css.map": "/my-portfolio-1/static/css/main.ddb45c3d.css.map",
-    "main.3bd1601d.js.map": "/my-portfolio-1/static/js/main.3bd1601d.js.map"
+    "main.1d26312c.js.map": "/my-portfolio-1/static/js/main.1d26312c.js.map"
   },
   "entrypoints": [
     "static/css/main.ddb45c3d.css",
-    "static/js/main.3bd1601d.js"
+    "static/js/main.1d26312c.js"
   ]
 }
